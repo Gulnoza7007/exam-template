@@ -25,7 +25,7 @@ app.get("/", (req,res)=>{
 })
 
 app.get("/index.html", (req,res)=>{
-    res.render("index", {title, admin: admin[0]})
+    res.render("index", {title, admin})
 })
 
 
