@@ -1,0 +1,11 @@
+{
+    "name": "Usmon",
+    "lastname": "Artiqboyev",
+    "image": "./img/admin.jpg",
+    "email":"someone@mail.com",
+    "phone":"+998941234567",
+    "organization":"dunnow",
+    "state":"somewhere",
+    "address":"blabla",
+    "zipCode":"bla"
+}

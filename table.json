@@ -1,0 +1,54 @@
+[
+    {
+        "projectName": "Angular",
+        "client": "Usmon",
+        "id": 1,
+        "users": [
+            { "id": 11, "image": "./img/avatars/1.png" },
+            { "id": 12, "image": "./img/avatars/2.png" },
+            { "id": 13, "image": "./img/avatars/3.png" }
+        ],
+        "status": "Completed"
+    },
+    {
+        "projectName": "React",
+        "client": "Vali",
+        "id": 2,
+        "users": [
+            { "id": 21, "image": "./img/avatars/2.png" }
+        ],
+        "status": "Pending"
+    },
+    {
+        "projectName": "Javascript",
+        "client": "Ali",
+        "id": 3,
+        "users": [
+            { "id": 31, "image": "./img/avatars/3.png" },
+            { "id": 32, "image": "./img/avatars/2.png" },
+            { "id": 33, "image": "./img/avatars/1.png" }
+        ],
+        "status": "Active"
+    },
+    {
+        "projectName": "C++",
+        "client": "Anvar",
+        "id": 4,
+        "users": [
+            { "id": 41, "image": "./img/avatars/4.png" },
+            { "id": 43, "image": "./img/avatars/1.png" }
+        ],
+        "status": "Completed"
+    },
+    {
+        "projectName": "Node js",
+        "client": "Dilshod",
+        "id": 5,
+        "users": [
+            { "id": 51, "image": "./img/avatars/3.png" },
+            { "id": 52, "image": "./img/avatars/4.png" },
+            { "id": 53, "image": "./img/avatars/2.png" }
+        ],
+        "status": "Scheduled"
+    }
+]
